@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built a web design skeleton using HTML/CSS.
+Built a web design skeleton using HTML/CSS and commiting changes to the GitHub repository.
 
 ## Required Specifications
 
