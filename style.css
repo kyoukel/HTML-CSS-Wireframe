@@ -7,6 +7,7 @@ body {
     font-size: 18px;
     width: 960px;
     margin: 0 auto;
+    margin-top: 10px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(146, 146, 146);
     background: #777;
@@ -27,7 +28,7 @@ header, nav {
     margin-top: 10px;
     float: left;
     vertical-align: text-top;
-    background: white;
+    background: #fff;
     text-align: center;
 }
 
@@ -43,7 +44,7 @@ article {
     height: 200px;
     background: #777;
     text-align: center;
-    color: white;
+    color: #ebebeb;
 }
 
 .text1 {
