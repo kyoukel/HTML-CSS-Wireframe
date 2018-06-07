@@ -5,7 +5,7 @@
 Build a web design skeleton using HTML/CSS and commit changes to the GitHub repository. 
 Your completed work should look just like the image below:
 
-![Image of web design skeleton](https://github.com/kyoukel/Building-a-Wireframe/wireframe/images/web-design-skeleton.png)
+![Image of web design skeleton](https://github.com/kyoukel/Building-a-Wireframe/blob/master/images/web-design-skeleton.png)
 
 ## Instructions
 
