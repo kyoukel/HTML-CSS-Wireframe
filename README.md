@@ -1,4 +1,4 @@
-# HTML/CSS-Wireframe
+# HTML-CSS-Wireframe
 
 ## Overview  
 Build a web design skeleton using HTML/CSS and commit changes to the GitHub repository. Your completed work should look just like the image below:
